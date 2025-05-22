@@ -1,0 +1,9 @@
+crewai
+joblib
+numpy
+scikit-learn
+transformers
+dotenv
+streamlit
+huggingface_hub
+torch
